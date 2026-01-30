@@ -15,7 +15,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
    ```
    Open [http://localhost:3000](http://localhost:3000).
 
-4. **Deploy to Vercel** – Push to GitHub and [import the project in Vercel](https://vercel.com/new), or use the CLI: `npx vercel`. Add the same env vars in Vercel → Project → **Settings → Environment Variables**.
+4. **Deploy to Vercel** – Push to GitHub and [import the project in Vercel](https://vercel.com/new), or use the CLI: `npx vercel`. Add the same env vars in Vercel → Project → **Settings → Environment Variables**. If the repo root is the monorepo root, set **Root Directory** to `ai-academy-dashboard` in Vercel → Project → **Settings → General** so each push triggers a build from this folder.
 
 ## Getting Started (dev server)
 
