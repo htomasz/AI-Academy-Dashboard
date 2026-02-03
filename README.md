@@ -1,5 +1,7 @@
 # Day 1: Agent Foundations
 
+
+
 > Date: [YYYY-MM-DD]
 > Status: ⏳ In Progress / ✅ Complete / 🔄 Needs Revision
 
