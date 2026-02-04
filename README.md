@@ -1,12 +1,12 @@
 # Day 1: Agent Foundations
 
-> Date: [YYYY-MM-DD]
+> Date: [2026-02-02]
 > Status: ⏳ In Progress / ✅ Complete / 🔄 Needs Revision
 
 ## 🤖 My Agent
 
-**Name:** [Your agent's name]
-**Role:** [Your role in the AI project]
+**Name:** [Tomasz H]
+**Role:** [TEsting]
 
 ### System Prompt
 
